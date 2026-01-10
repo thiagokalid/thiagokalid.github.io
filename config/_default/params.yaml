@@ -13,18 +13,11 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
-    # Legal entity for copyright notices (defaults to name if not set)
-    organization: ""
+    name: "Thiago E. Kalid"
     # Schema.org type for structured data
-    type: person                        # person | organization | local_business
-    # Short tagline displayed on your site
-    tagline: ""
-    # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox Kit. Easily create your personal academic website."
+    type: person # person | organization | local_business
     # Social accounts (used for meta tags like Twitter Cards)
-    social:
-      twitter: "BuildLore"              # Twitter/X handle for Twitter Cards (without @)
+    social: {}
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME
@@ -32,14 +25,14 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   theme:
     # Mode: 'light', 'dark', or 'system' (follows OS preference)
-    mode: system
+    mode: light
     # Theme pack: name from data/themes/ or { light: "x", dark: "y" } for mix-and-match
-    pack: "default"
+    pack: "minimal"
     # Optional: Override theme pack colors
     colors:
-      primary: ""                       # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
-      secondary: ""
-      neutral: ""                       # Affects gray utilities (text-gray-*, bg-gray-*)
+      primary: "#000000" # Tailwind palette name or hex (e.g., "indigo" or "#6366f1")
+      secondary: "#000000"
+      neutral: "" # Affects gray utilities (text-gray-*, bg-gray-*)
     # Optional: Mode-specific color overrides
     colors_light: {}
     colors_dark: {}
@@ -62,7 +55,7 @@ hugoblox:
     # Font: 'sans' (Inter), 'serif' (Roboto Slab), or 'native' (system fonts)
     font: "sans"
     # Size: 'sm', 'md', 'lg', or 'xl' (affects base font size and scale)
-    size: "md"
+    size: "lg"
 
   # ────────────────────────────────────────────────────────────────────────────
   # LAYOUT
@@ -72,9 +65,9 @@ hugoblox:
     # Border radius: 'none', 'sm', 'md', 'lg', or 'full'
     radius: "md"
     # Spacing density: 'compact', 'comfortable', or 'spacious'
-    spacing: "comfortable"
+    spacing: "compact"
     # Avatar shape in author profiles
-    avatar_shape: circle                # circle | square | rounded
+    avatar_shape: circle # circle | square | rounded
 
   # ────────────────────────────────────────────────────────────────────────────
   # HEADER
@@ -83,16 +76,16 @@ hugoblox:
   header:
     enable: true
     # Header style variant
-    style: navbar                       # navbar | navbar-simple | minimal
+    style: minimal # navbar | navbar-simple | minimal
     # Stick to top on scroll
     sticky: true
     # Menu alignment
-    align: center                       # left | center | right
+    align: left # left | center | right
     # Feature toggles
-    search: true
-    theme_toggle: true
-    theme_picker: true
-    language_switcher: true
+    search: false
+    theme_toggle: false
+    theme_picker: false
+    language_switcher: false
     # Call-to-action button
     cta:
       enable: false
@@ -105,8 +98,8 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   footer:
     # Footer style variant
-    style: minimal                      # minimal | columns | centered
-    language_switcher: true
+    style: centered # minimal | columns | centered
+    language_switcher: false
     # Custom footer text (HTML supported)
     text: ""
 
@@ -116,9 +109,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   copyright:
     # Copyright notice - supports {year}, {name}, {license} placeholders
-    notice: "© {year} {name}. This work is licensed under {license}"
+    notice: "© {year} Thiago Estrela Kalid. This work is licensed under {license}"
     license:
-      type: cc                          # cc | custom
+      type: cc # cc | custom
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
@@ -160,13 +153,13 @@ hugoblox:
       enable: false
     # Table of contents
     toc:
-      enable: true
+      enable: false
     # Reading time estimates
     reading_time:
-      enable: true
+      enable: false
     # Academic citations
     citations:
-      style: apa                        # apa | mla | chicago | ieee
+      style: apa # apa | mla | chicago | ieee
 
   # ────────────────────────────────────────────────────────────────────────────
   # SEARCH
@@ -185,7 +178,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   comments:
     enable: false
-    provider: ""                        # giscus | disqus
+    provider: "" # giscus | disqus
     giscus:
       repo: ""
       repo_id: ""
@@ -200,9 +193,9 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   analytics:
     google:
-      measurement_id: ""                # Google Analytics 4: G-XXXXXXXXXX
+      measurement_id: "" # Google Analytics 4: G-XXXXXXXXXX
     google_tag_manager:
-      container_id: ""                  # GTM-XXXXXXX
+      container_id: "" # GTM-XXXXXXX
     plausible:
       domain: ""
     fathom:
@@ -232,7 +225,7 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   repository:
     enable: false
-    url: ""                             # e.g., https://github.com/username/repo
+    url: "" # e.g., https://github.com/username/repo
     branch: main
     content_dir: content
 
@@ -241,7 +234,7 @@ hugoblox:
   # Regional formatting preferences
   # ────────────────────────────────────────────────────────────────────────────
   locale:
-    date_format: "Jan 2, 2006"          # Go time format
+    date_format: "Jan 2, 2006" # Go time format
     time_format: "3:04 PM"
     address_format: en-us
 
@@ -253,7 +246,7 @@ hugoblox:
     csp:
       policy: ""
       report_only: false
-    frame_options: sameorigin           # deny | sameorigin | allow - sameorigin allows slides embedding
+    frame_options: sameorigin # deny | sameorigin | allow - sameorigin allows slides embedding
     permissions_policy: ""
 
   # ────────────────────────────────────────────────────────────────────────────
@@ -271,7 +264,7 @@ hugoblox:
   debug:
     enable: false
     hud:
-      position: bottom-left             # top-left | top-right | bottom-left | bottom-right
+      position: bottom-left # top-left | top-right | bottom-left | bottom-right
       opacity: 1.0
     export_logs: true
 
@@ -285,7 +278,7 @@ hugoblox:
     # Note: Even with Pro, you can keep this false to support open source!
     # Get Pro: https://hugoblox.com/pro
     hide_attribution: false
-    
+
     # Affiliate referral code for rewards program
     # Join affiliate program: https://hugoblox.com/affiliates
     affiliate_code: ""
