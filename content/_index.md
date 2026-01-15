@@ -10,9 +10,10 @@ sections:
     content:
       username: "me"
       text: |2-
-         Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        Please reach out to collaborate 😃
+        Hi! I’m Thiago, a graduate researcher at the [Federal University of Technology – Paraná (UTFPR)](https://www.utfpr.edu.br/english), currently pursuing an M.Sc. in Computer Engineering in the [Graduate Program in Electrical and Computer Engineering](https://antigo.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/cpgei/english/graduate-program-in-electrical-and-computer-engineering).
+
+        My research focuses on inverse problems and signal processing applied to ultrasonic imaging in non-destructive testing. For the past years I have been involved in the R&D project [AUSPEX](https://lassip-utfpr.github.io/AUSPEX/load_presentation2.html) at the [Laboratory of Statistical Signal Processing and Inverse Problems (LASSIP)](https://utfpr.curitiba.br/lassip/), where I develop ultrasound imaging inspection techniques for subsea pipelines aimed at improving inspection speed and reliability.
+
       button:
         text: "Download my CV"
         url: "uploads/thiagokalid_cv.pdf"
