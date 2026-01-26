@@ -1,17 +1,18 @@
 ---
-title: Development of an ultrasound Spatial Impulse Response (SIR) simulator
-date: 2026-01-14
+title: An ultrasound Spatial Impulse Response (SIR) simulator to aid acoustic lens design
+date: 2025-04-30
 draft: false
-summary: "What problem does this solve? Keep it to one or two sentences."
+summary: "A simplified simulator to help us to design better acoustic lenses."
 
 links:
   - type: site
     url: "https://github.com/your-org/your-project"
 
 tags:
+  - Simulation
+  - Spatial Impulse Response (SIR)
   - Ultrasound
   - Acoustic lens
-  - Simulation
 
 #cover:
 #  image: "https://images.unsplash.com/photo-1557682250-33bd709cbe85?q=80&w=2560"
@@ -26,6 +27,7 @@ tags:
 #  fade:
 #    enabled: true
 #    height: "80px"
+
 ---
 
 <!-- Describe the problem, your approach, key results, and links to code/data. -->
