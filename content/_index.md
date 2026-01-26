@@ -10,10 +10,12 @@ sections:
     content:
       username: "me"
       text: |2-
-        Hi! I’m Thiago, a graduate researcher at the [Federal University of Technology – Paraná (UTFPR)](https://www.utfpr.edu.br/english), currently pursuing an M.Sc. in Computer Engineering in the [Graduate Program in Electrical and Computer Engineering](https://antigo.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/cpgei/english/graduate-program-in-electrical-and-computer-engineering).
+        Hi! I’m Thiago, a graduate researcher at the [Federal University of Technology – Paraná (UTFPR)](https://www.utfpr.edu.br/english), currently pursuing an M.Sc. in Computer Engineering in the [Graduate Program in Electrical and Computer Engineering](https://antigo.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/cpgei/english/graduate-program-in-electrical-and-computer-engineering). My work is at the intersection of inverse problems and signal processing, mostly applied to ultrasonic imaging for non-destructive testing.
 
-        My research focuses on inverse problems and signal processing applied to ultrasonic imaging in non-destructive testing. For the past years I have been involved in the R&D project [AUSPEX](https://lassip-utfpr.github.io/AUSPEX/load_presentation2.html) at the [Laboratory of Statistical Signal Processing and Inverse Problems (LASSIP)](https://utfpr.curitiba.br/lassip/), where I develop ultrasound imaging inspection techniques for subsea pipelines aimed at improving inspection speed and reliability.
+        Over the past few years, I have been involved in the R&D project [AUSPEX](https://lassip-utfpr.github.io/AUSPEX/load_presentation2.html) at the [Laboratory of Statistical Signal Processing and Inverse Problems (LASSIP)](https://utfpr.curitiba.br/lassip/). There I have been developing ultrasound inspection techniques for subsea pipelines to improve inspection speed and reliability.
 
+        I’m particularly interested in using signal processing and physics-based models to extract meaningful information from sensor data in real-world environments. I find it fascinating that, through algorithms and sensing systems, it is possible to infer quantities and achieve results that are otherwise inaccessible, and how this can directly support real-world decision-making.
+        
       button:
         text: "Download my CV"
         url: "uploads/thiagokalid_cv.pdf"
@@ -26,6 +28,7 @@ sections:
       background:
         gradient_mesh:
           enable: true
+
       #background:
       #color: "#eeeeee"
       name:
@@ -59,13 +62,13 @@ sections:
     
   - block: "collection"
     content:
-      count: 3
+      count: 6
       offset: 0
       sort_by: "Date"
       sort_ascending: false
       title: "Projects"
       text: |-
-        Lore ipsum
+        Some interesting academic projects I’ve worked on that did not lead to formal publications.
       order: "desc"
       filters:
         folders:
@@ -100,6 +103,8 @@ sections:
       fill_image: false
       show_date: true
       show_read_more: false
+      background:
+        color: "#f5f5f5"
     oe: "section-papers"
     id: "papers"
     _internalId: "section-ehG-ifiu"
@@ -114,9 +119,9 @@ sections:
       #prospective:
       #  button: {}
     oe: "section-6-contact-info"
-    design:       
-      background:
-        color: "#f5f5f5"
+#    design:       
+#      background:
+#        color: "#f5f5f5"
     id: "contact"
     _internalId: "section-66_1H6bb"
 ---
