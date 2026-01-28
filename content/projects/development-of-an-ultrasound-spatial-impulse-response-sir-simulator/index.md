@@ -4,10 +4,6 @@ date: 2025-04-30
 draft: false
 summary: "A simplified simulator to help us to design better acoustic lenses."
 
-links:
-  - type: site
-    url: "https://github.com/your-org/your-project"
-
 tags:
   - Simulation
   - Spatial Impulse Response (SIR)

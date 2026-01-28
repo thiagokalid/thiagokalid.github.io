@@ -27,6 +27,10 @@ links:
     url: "https://scholar.google.com/citations?user=1uQ0WhAAAAAJ"
   - icon: "academicons/orcid"
     url: "https://orcid.org/0000-0002-2035-5349"
+  - icon: "academicons/lattes"
+    url: "http://lattes.cnpq.br/7094341848149956"
+  - icon: "academicons/cv"
+    url: "/uploads/thiagokalid_cv.pdf"
 interests:
   - "Signal processing"
   - "Inverse problems"

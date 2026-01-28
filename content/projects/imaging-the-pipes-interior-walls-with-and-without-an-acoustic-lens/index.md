@@ -2,7 +2,6 @@
 title: Imaging the pipe's interior walls with and without an acoustic lens
 date: 2025-06-10
 summary: Ultrasound imaging of pipes using our proposed acoustic lenses.
-links:
 
 tags:
   - Acoustic lens
