@@ -4,18 +4,20 @@ summary: ""
 date: "2022-10-24"
 type: "landing"
 design:
-  spacing: "5rem"
+  spacing: 5rem"
 sections:
   - block: "resume-biography-3"
     content:
       username: "me"
       text: |2-
-        Hi! I’m Thiago, a graduate researcher at the [UTFPR](https://www.utfpr.edu.br/english), currently pursuing an M.Sc. in Computer Engineering in the [Graduate Program in Electrical and Computer Engineering](https://antigo.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/cpgei/english/graduate-program-in-electrical-and-computer-engineering). My work is at the intersection of inverse problems and signal processing, mostly applied to ultrasonic imaging for non-destructive testing.
+          Hi! I’m Thiago, a graduate researcher at the [UTFPR](https://www.utfpr.edu.br/english), currently pursuing an M.Sc. in Computer Engineering in the [Graduate Program in Electrical and Computer Engineering](https://antigo.utfpr.edu.br/cursos/coordenacoes/stricto-sensu/cpgei/english/graduate-program-in-electrical-and-computer-engineering). My work is at the intersection of inverse problems and signal processing, mostly applied to ultrasonic imaging for non-destructive testing.
 
 
-        For the past few years, I’ve been part of [AUSPEX](https://lassip-utfpr.github.io/AUSPEX/load_presentation2.html), a [Petrobras](https://petrobras.com.br/en)-funded project at the [Laboratory of Statistical Signal Processing and Inverse Problems (LASSIP)](https://utfpr.curitiba.br/lassip/), where we develop ultrasound techniques for inspecting subsea pipelines faster and more reliably.
+          For the past few years, I’ve been part of [AUSPEX](https://lassip-utfpr.github.io/AUSPEX/load_presentation2.html), a [Petrobras](https://petrobras.com.br/en)-funded project at the [Laboratory of Statistical Signal Processing and Inverse Problems (LASSIP)](https://utfpr.curitiba.br/lassip/). There, I help developing new ultrasound techniques to inspect subsea pipelines faster and more reliably.
 
-        I’m particularly interested in using signal processing and physics-based models to extract meaningful information from sensor data in real-world environments. I find it fascinating that algorithms and sensing systems allow us to infer quantities that are hard (or impossible) to measure directly, and how this can directly support real-world decision-making.
+          I’m particularly interested in using signal processing and physics-based models to extract meaningful information from sensor data in real-world environments. I find it fascinating that algorithms and sensing systems allow us to infer quantities that are hard (or impossible) to measure directly, and how this can directly support real-world decision-making.
+
+          You can check out more about my academic journey below. Feel free to reach out at [thiagokalid@alunos.utfpr.edu.br](mailto:thiagokalid@alunos.utfpr.edu.br). I’d love to connect!
         
       button:
         text: "Download my CV"
@@ -48,12 +50,14 @@ sections:
     content:
       title: "Research"
       subtitle: ""
-      text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+      text: |-        
+        I am passionate about applying complex mathematical modeling to solve real-world problems. For this reason (along with a bit of life’s randomness), I naturally gravitated toward the intersection of signal processing and inverse problems, primarily in ultrasound imaging for NDT.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        More recently, I have enjoyed studying ultrasound simulation methods, including spatial impulse response and finite-element methods, to deepen my understanding of sound-wave propagation and expand my analytical capabilities.
 
-        Please reach out to collaborate 😃
+        While these are the areas I have worked on so far, one of the things that I most enjoy is studying new subjects and concepts.  
+
+
     design:
       columns: "1"
       
