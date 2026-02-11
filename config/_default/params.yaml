@@ -122,17 +122,15 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   seo:
     # Browser tab title override (defaults to identity.name if not set)
-    title: ""
     # For local_business identity type only
     location:
       address:
-        street: ""
-        city: ""
-        region: ""
-        postal_code: ""
-        country: ""
+        street: "Av. Silva Jardim, 780 - Rebouças"
+        city: "Curitiba"
+        region: "PR"
+        postal_code: "82860-140"
+        country: BR
       coordinates:
-        latitude: null
         longitude: null
       phone: ""
     # AI/LLM crawler guidance (llms.txt)
@@ -142,6 +140,7 @@ hugoblox:
       disallow: []
       note: "Guidance for AI crawlers - customize to match your public content."
       contact: ""
+    title: "Thiago E. Kalid | Master's student | UTFPR "
 
   # ────────────────────────────────────────────────────────────────────────────
   # CONTENT
