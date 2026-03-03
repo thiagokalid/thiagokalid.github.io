@@ -7,9 +7,9 @@ links:
     url: https://github.com/thiagokalid/surface_gpu
 
 tags:
+  - GPU parallel computing  
   - Ray-tracing
   - Ultrasound  
-  - GPU parallel computing
   - CUDA
 status: published
 bibliography: refs.bib

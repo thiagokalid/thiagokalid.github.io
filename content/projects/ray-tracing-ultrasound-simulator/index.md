@@ -1,5 +1,5 @@
 ---
-title: An ray-tracing ultrasound simulator to aid acoustic lens design
+title: A ray-tracing ultrasound simulator to aid acoustic lens design
 date: 2025-04-30
 draft: false
 summary: "A simplified simulator to help us to design better acoustic lenses."
