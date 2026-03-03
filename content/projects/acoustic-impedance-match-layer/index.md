@@ -5,7 +5,7 @@ summary: Understanding impedance-matching layer and how they can improve ultraso
 
 tags:
   - Simulation
-  - Spatial Impulse Response (SIR)
+  - Ray-tracing
   - Ultrasound
   - Acoustic lens
 status: published

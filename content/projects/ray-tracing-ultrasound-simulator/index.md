@@ -1,12 +1,12 @@
 ---
-title: An ultrasound Spatial Impulse Response (SIR) simulator to aid acoustic lens design
+title: An ray-tracing ultrasound simulator to aid acoustic lens design
 date: 2025-04-30
 draft: false
 summary: "A simplified simulator to help us to design better acoustic lenses."
 
 tags:
   - Simulation
-  - Spatial Impulse Response (SIR)
+  - Ray-tracing
   - Ultrasound
   - Acoustic lens
 

@@ -51,12 +51,11 @@ sections:
       title: "Research"
       subtitle: ""
       text: |-        
-        I am passionate about applying complex mathematical modeling to solve real-world problems. For this reason (along with a bit of life’s randomness), I naturally gravitated toward the intersection of signal processing and inverse problems, primarily in ultrasound imaging for NDT.
+       I am passionate about applying complex mathematical modeling to solve real-world problems. For this reason (along with a bit of life’s randomness), I naturally gravitated toward the intersection of signal processing and inverse problems, primarily in ultrasound imaging for NDT.
 
-        More recently, I have enjoyed studying ultrasound simulation methods, including spatial impulse response and finite-element methods, to deepen my understanding of sound-wave propagation and expand my analytical capabilities.
+       More recently, I have enjoyed studying ultrasound simulation methods, such as ray tracing and finite-element-based methods, to enhance my understanding of the physics behind sound propagation.
 
-        While these are the areas I have worked on so far, one of the things that I most enjoy is studying new subjects and concepts.  
-
+       While these are the areas I have worked on so far, one of the things that I most enjoy is studying new subjects and concepts.  
 
     design:
       columns: "1"
