@@ -100,7 +100,7 @@ sections:
       order: "desc"
       sort_by: "Date"
       offset: 0
-      count: 6
+      count: 0
     design:
       view: "citation"
       columns: 1

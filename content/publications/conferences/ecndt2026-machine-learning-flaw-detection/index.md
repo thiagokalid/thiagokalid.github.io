@@ -31,7 +31,7 @@ featured: true
 
 hugoblox:
   ids:
-    doi: 10.58286/33475
+    doi: doi.org/10.58286/33475
 
 links:
   - type: pdf
