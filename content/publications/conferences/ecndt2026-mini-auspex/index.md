@@ -13,7 +13,7 @@ authors:
 date: "2026-06-15T00:00:00Z"
 publishDate: "2026-10-22T00:00:00Z"
 
-publication_types: ["paper-conference"]
+publication_types: ["article-journal"]
 publication: "Proceedings of the 14th European Conference on Non-Destructive Testing (ECNDT 2026)"
 publication_short: "ECNDT 2026"
 
