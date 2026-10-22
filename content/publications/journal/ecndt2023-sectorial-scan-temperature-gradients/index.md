@@ -3,7 +3,7 @@ title: "Ultrasonic sectorial inspection in the presence of temperature gradients
 authors:
 
 - Mateus Y. Müller
-- Tatiana A. Prado
+- Tatiana de A. Prado
 - me
 - Thiago A. R. Passarin
 - Daniel R. Pipa

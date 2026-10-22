@@ -4,7 +4,7 @@ authors:
 
 - me
 - Everton Trento Jr.
-- Tatiana A. Prado
+- Tatiana de A. Prado
 - Gustavo P. Pires
 - Giovanni A. Guarneri
 - Thiago A. R. Passarin

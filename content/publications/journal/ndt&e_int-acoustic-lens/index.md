@@ -4,7 +4,7 @@ of pipes with ultrasonic phased arrays"
 authors:
 - Gustavo P. Pires
 - me
-- Tatiana A. Prado
+- Tatiana de A. Prado
 - Vinícius L. Costa
 - Gabriela R. Pereira
 - Thiago A. R. Passarin
