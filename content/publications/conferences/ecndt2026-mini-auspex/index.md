@@ -25,7 +25,7 @@ tags:
   - Image reconstruction
   - Ultrasonics
   - Python
-  - Non-destructive testing 
+  - Non-Destructive Testing (NDT) 
   - Automated defect detection
 
 featured: true

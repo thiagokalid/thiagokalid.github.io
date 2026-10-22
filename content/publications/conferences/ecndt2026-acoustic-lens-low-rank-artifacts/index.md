@@ -22,7 +22,7 @@ abstract: Acoustic lenses have recently been used in non-destructive testing (ND
 summary: ""
 
 tags:
-  - Non-destructive testing
+  - Non-Destructive Testing (NDT)
   - Geometric artifacts
   - Singular Value Decomposition
   - Flaw detection

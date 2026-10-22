@@ -21,7 +21,7 @@ abstract: "The performance of an ultrasound array transducer is typically impair
 summary: ""
 
 tags:
-  - Ultrasonic testing
+  - Ultrasonic Testing (UT)
   - Signal processing
   - Electronic crosstalk
   - Deconvolution

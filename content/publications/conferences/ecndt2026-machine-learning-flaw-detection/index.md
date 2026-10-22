@@ -21,10 +21,10 @@ abstract: Acoustic lenses have been recently employed during ultrasonic pipe ins
 summary: ""
 
 tags:
-  - Non-destructive testing
+  - Non-Destructive Testing (NDT)
   - Acoustic lens
-  - Ultrasonic testing
-  - Machine learning
+  - Ultrasonic testing (UT)
+  - Machine Machine Learning (ML)
   - Automated defect detection
 
 featured: true
