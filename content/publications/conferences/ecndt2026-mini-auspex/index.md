@@ -32,14 +32,14 @@ featured: true
 
 hugoblox:
   ids:
-    doi: doi.org/10.58286/33472
+    doi: 10.58286/33472
 
 links:
   - type: pdf
-    url: "ECNDT2026_ID_760.pdf"
+    url: "ECNDT2026_ID_763.pdf"
 
   - type: slides
-    url: ECNDT2026_PRESENTATION_760.pdf
+    url: ECNDT2026_PRESENTATION_763.pdf
 
 image:
   caption: ""
